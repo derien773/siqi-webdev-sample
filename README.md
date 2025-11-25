@@ -41,10 +41,10 @@ External CSS dependencies are loaded from official WET BOEW and Canada.ca CDNs.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/<你的github用户名>/siqi-webdev-sample.git
+   git clone https://github.com/<yourusername>/siqi-webdev-sample.git
    ```
 
-2. 打开 `index.html` 即可查看，不需要任何安装步骤。
+2. open `index.html` 。
 
 ---
 
